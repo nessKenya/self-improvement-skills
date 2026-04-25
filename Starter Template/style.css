@@ -1,0 +1,62 @@
+body.signin-body{
+    background-color: #e6f2ff;
+}
+
+.container.signin-container{
+    margin-top: 8%;
+}
+
+.card.signin-card{
+    padding: 40px 0 20px;
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+h1 span.dev{
+    color: #64615f;
+}
+
+h1 span.slopes{
+    color: #d64829;
+}
+
+.img-fluid h1{
+   font-style: oblique;
+   text-shadow: 3px 3px #fff;
+   font-weight: 800;
+   font-size: 3.5rem;
+}
+
+
+.img-fluid img{
+    padding: 0 2rem 2 rem;
+    margin: auto;
+    display: block;
+}
+
+h1{
+    text-align: center;
+}
+
+form.signin-form{
+    max-width: 350px;
+    margin: auto;
+}
+
+button.signin-btn{
+    color: #ffffff;
+    background-color: #d64829;
+    width: 100%;
+    margin-bottom: 1.2rem;
+}
+
+a.create-new-account{
+    font-size: 1.2rem;
+    text-align: center;
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
